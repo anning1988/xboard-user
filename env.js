@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://xy.kpcloud.eu.org/'
+window.routerBase = 'http://xinyi.kpcloud.eu.org/'
 window.settings = {
   // 站点名称
   title: 'Xboard',
